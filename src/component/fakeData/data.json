@@ -1,0 +1,45 @@
+[{
+    "id": "car",
+    "people": 3,
+"price":100
+  
+    
+  }, {
+    "id": "car",
+    "people": 4,
+"price":150
+    
+    
+  }, {
+    "id": "train",
+    "people": 120,
+"price":20000
+    
+  }, {
+    "id": "train",
+   "people": 150,
+"price":30000
+    
+ },{
+    "id": "bike",
+  "people": 2,
+"price":300
+   
+    
+  }, {
+     "id": "bike",
+  "people": 3,
+"price":200
+   
+  }, {
+    "id": "bus",
+  "people": 20,
+"price":1500
+    
+  }, 
+{
+    "id": "bus",
+  "people": 30,
+"price":2500
+    
+  }]
